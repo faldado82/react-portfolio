@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4d521ea1.css",
-    "main.js": "/react-portfolio/static/js/main.ee873e0c.js",
+    "main.js": "/react-portfolio/static/js/main.bf2e9a3a.js",
     "static/media/fran.png": "/react-portfolio/static/media/fran.4598155439f45b0ab6f4.png",
     "static/media/fran_surf.jpg": "/react-portfolio/static/media/fran_surf.a001d1723cbb18ecde89.jpg",
     "static/media/CV - Francisco Aldado.pdf": "/react-portfolio/static/media/CV - Francisco Aldado.2a60f27865112531781c.pdf",
@@ -12,12 +12,15 @@
     "static/media/portfolio5.jpg": "/react-portfolio/static/media/portfolio5.7f80bb7f1236029f23d4.jpg",
     "static/media/portfolio6.jpg": "/react-portfolio/static/media/portfolio6.02c83fca00bc5f9e3b1d.jpg",
     "static/media/portfolio3.jpg": "/react-portfolio/static/media/portfolio3.11d41c78d22d0c34e55f.jpg",
+    "static/media/portfolio9.jpg": "/react-portfolio/static/media/portfolio9.521879a09cd103a215db.jpg",
+    "static/media/portfolio8.jpg": "/react-portfolio/static/media/portfolio8.2ce8a33a44c331496e05.jpg",
+    "static/media/portfolio7.jpg": "/react-portfolio/static/media/portfolio7.e62b0ff40dff0ee05bc2.jpg",
     "index.html": "/react-portfolio/index.html",
     "main.4d521ea1.css.map": "/react-portfolio/static/css/main.4d521ea1.css.map",
-    "main.ee873e0c.js.map": "/react-portfolio/static/js/main.ee873e0c.js.map"
+    "main.bf2e9a3a.js.map": "/react-portfolio/static/js/main.bf2e9a3a.js.map"
   },
   "entrypoints": [
     "static/css/main.4d521ea1.css",
-    "static/js/main.ee873e0c.js"
+    "static/js/main.bf2e9a3a.js"
   ]
 }
